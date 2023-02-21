@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Just Do It</title>
+
+    <link rel="stylesheet"  href="index.css">
+</head>
+<body onload="onload()">
+    <div class="container">
+        <div class="heading">
+            <h1>Just Do It!</h1>
+        </div>
+        <div class="content">
+            <div class="input">
+                <input type="text" name="" id="task" placeholder="Add Your Task...">
+                <div class="btns">
+                    <button id="btn1" onclick="checkAllTasks()"><i class="fa-solid fa-check"></i><span>Completed all tasks</span></button>
+                    <button id="btn2" onclick="deleteCompleted()">Clear Completed</button>
+                </div>
+            </div>
+            <br>
+            <hr>
+            <div class="task-lists " id="task-list">
+            </div>
+
+            <hr id="end-hr">
+            <div class="end btns">
+                <button id="btn1"><span id="taskCount"></span> Tasks left</button>
+                <button id="btn3" onclick="displayAll()">All</button>
+                <button id="btn4" onclick="completed()">Completed</button>
+                <button id="btn5" onclick="unCompleted()">Uncompleted</button>
+            </div>
+        </div>
+    </div>
+    <script src="index.js"></script>
+    <script src="https://kit.fontawesome.com/f24c285ecb.js" crossorigin="anonymous"></script>
+    
+
+</body>
+</html>
