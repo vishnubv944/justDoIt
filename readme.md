@@ -13,7 +13,7 @@
 <h1 align="center">Just Do It</h1>
 
   <p align="center">
-    <a href="https://github.com/vishnubv944/justDoIt">View Demo</a>
+    <a href="https://vishnubv944.github.io/justDoIt/">View Demo</a>
     ·
     <a href="https://github.com/vishnubv944/justDoIt/issues">Report Bug</a>
     ·
