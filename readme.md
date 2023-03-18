@@ -58,7 +58,7 @@ This web application for organizing to-do lists was developed using HTML, CSS, a
 
 Vishnu B V - vishnubv944@gmail.com
 
-Project Link: [https://github.com/vishnubv944/justDoIt](https://github.com/vishnubv944/justDoIt)
+Project Link: [https://vishnubv944.github.io/justDoIt/](https://vishnubv944.github.io/justDoIt/)
 
 
 
